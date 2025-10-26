@@ -8,8 +8,7 @@
 ---
 
 ### 💬 About Me
-I'm passionate about leveraging **AI, ML, Deep Learning, and Generative AI** to build smart applications. I also enjoy creating **full-stack solutions** that integrate modern web technologies. Currently exploring **computer vision, NLP, and cloud deployment** in real-world projects.  
-
+I'm passionate about leveraging **AI, ML, Deep Learning, and Generative AI** to build smart applications. I also enjoy creating **full-stack solutions** that integrate modern web technologies.
 I love turning **ideas into intelligent applications** that solve practical problems.
 
 ---
